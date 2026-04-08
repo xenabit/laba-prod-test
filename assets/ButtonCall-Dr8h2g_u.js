@@ -1,1 +1,0 @@
-import{j as l}from"./index-CNQctDLc.js";const o={tel:{work:79161958226,main:79690639323}};function t(){return console.log(o),console.log(o),console.log(o),l.jsx("a",{href:`"tel:+${o.tel.work}"`,className:"ButtonCall",children:l.jsx("span",{children:"Связаться"})})}export{t as B};
