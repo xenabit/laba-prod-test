@@ -1,1 +1,0 @@
-import{j as t}from"./index-BxDRMPGc.js";const r={tel:{work:"79161958226"}};function l(){return t.jsx("a",{href:`tel:+${r.tel.work}`,className:"ButtonCall",children:t.jsx("span",{children:"Связаться"})})}export{l as B};
